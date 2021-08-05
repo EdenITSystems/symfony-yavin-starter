@@ -19,8 +19,11 @@
     },
     "dependencies": {
         "@popperjs/core": "^2.9.1",
+        "@srexi/purecounterjs": "^1.1.1",
         "autoprefixer": "^10.3.1",
         "bootstrap": "^5.0.0-beta3",
-        "postcss-loader": "^6.1.1"
+        "postcss-loader": "^6.1.1",
+        "scriptjs": "^2.5.9",
+        "swiper": "^6.8.1"
     }
 }
